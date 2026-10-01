@@ -59,6 +59,3 @@ of code length, dimension, and m-height parameter.
 
 The optimization process is designed to reduce the maximum m-height while
 maintaining the required systematic generator-matrix structure.
-```bash
-git clone <your-repository-url>
-cd m-height-optimization
